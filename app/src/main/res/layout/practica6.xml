@@ -65,8 +65,7 @@
                 android:layout_marginLeft="5dp"
                 android:textColor="#000000"
                 android:backgroundTint="#F9FAFC"
-                android:textSize="15sp"
-                android:radius="8dp"/>
+                android:textSize="15sp" />
 
         </LinearLayout>
 
@@ -86,31 +85,31 @@
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:layout_marginEnd="12dp"
-                    android:background="@drawable/circulos"/>
+                    android:background="@drawable/circulo1"/>
 
                 <View
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:layout_marginTop="5dp"
-                    android:background="@drawable/circulos"/>
+                    android:background="@drawable/circulo2"/>
 
                 <View
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:layout_marginTop="5dp"
-                    android:background="@drawable/circulos"/>
+                    android:background="@drawable/circulo3"/>
 
                 <View
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:layout_marginTop="5dp"
-                    android:background="@drawable/circulos"/>
+                    android:background="@drawable/circulo4"/>
 
                 <View
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:layout_marginTop="5dp"
-                    android:background="@drawable/circulos"/>
+                    android:background="@drawable/circulo5"/>
 
             </LinearLayout>
             <LinearLayout
@@ -252,6 +251,7 @@
         android:layout_height="90dp"
         android:orientation="horizontal"
         android:background="#4F5BFF">
+
 
         <LinearLayout
             android:layout_width="0dp"
